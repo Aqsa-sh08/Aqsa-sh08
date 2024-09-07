@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aqsa</h1>
-- 🔭 I’m currently learning **Cpp and JavaScript**
+- 🔭 I’m currently busy in exploring **DSA**
 
 - 💬 Ask me about **js, cpp , web dev**
 
-- 📫 How to reach me **aqsaanam.009@gmail.com**
+- 📫 How to reach me **aqsaanam.009@gmail.com/https://www.linkedin.com/in/aqsa-sh08**
 
-- ⚡ Fun fact **I still dont know what i want**
+- ⚡ Fun fact **I still don't know what I want lol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
