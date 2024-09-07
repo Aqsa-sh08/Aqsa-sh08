@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aqsa</h1> 
 
 <br>
-Currently Learning more about DSA and C++ and trying hard to figuring out what to do 
+🐣Currently Learning more about DSA and C++ and trying hard to figuring out what to do 
 
 <br>
 
-- 💬 Ask me about **js, cpp , web dev**
+- 🐧 Ask me about **js, cpp , web dev**
 
-- 📫 How to reach me **linkedin.com/aqsa-sh08**
+- 🐋 How to reach me **linkedin.com/aqsa-sh08**
 
-- ⚡ Fun fact **I still don't know what I want lol**
+- 💫 Fun fact **I still don't know what I want lol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,7 +23,8 @@ Currently Learning more about DSA and C++ and trying hard to figuring out what t
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aqsa-sh08&show_icons=true&theme=radical&locale=en" alt="aqsa-sh08" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aqsa-sh08&theme=dark" alt="aqsa-sh08" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aqsa-sh08&theme=radical&locale=en"
+" alt="aqsa-sh08" /></p>
 
 
 
