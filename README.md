@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aqsa</h1> 
+
+<br>
 Currently Learning more about DSA and C++ and trying hard to figuring out what to do 
+
+<br>
 
 - 💬 Ask me about **js, cpp , web dev**
 
-- 📫 How to reach me **aqsaanam.009@gmail.com/https://www.linkedin.com/in/aqsa-sh08**
+- 📫 How to reach me **linkedin.com/aqsa-sh08**
 
 - ⚡ Fun fact **I still don't know what I want lol**
 
