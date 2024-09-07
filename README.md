@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aqsa</h1>
-- 🔭 I’m currently busy in exploring **DSA**
+<h1 align="center">Hi 👋, I'm Aqsa</h1> 
+Currently Learning more about DSA and C++ and trying hard to figuring out what to do 
 
 - 💬 Ask me about **js, cpp , web dev**
 
