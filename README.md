@@ -3,7 +3,7 @@
 
 - 🐋 I’m currently working on **Enhancing my skills**
 
-- 🐣 I’m currently learning **more about C++ and Back-end development**
+- 🐣 I’m currently learning **Deep in Back-end development**
 
 - 💬 Ask me about **C++,Web dev,JS**
 
